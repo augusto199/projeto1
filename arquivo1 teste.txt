@@ -1,0 +1,5 @@
+arquivo1 teste
+linha 2
+linha 3uuuuu
+linha aaaaaa4
+linhabbbbbbb 5
